@@ -41,12 +41,17 @@ This project features a smooth analog clock, a digital time display, and a day/n
 
 ## 📸 Preview
 
-![Clock Preview](./Screenshot%202025-12-21%20233356.png)
+![Clock Preview](https://github.com/faridullahfrotan/analog-digital-clock/blob/master/clockimage.png)
 
 ---
+## 🕒 Lunch the clock
+
+[analog and digital clock](https://analog-digital-clock-sigma.vercel.app/)
 
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/faridullahfrotan/analog-digital-clock.git
+
+
