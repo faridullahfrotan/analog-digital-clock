@@ -220,17 +220,17 @@ body {
     border-radius: 5px;
     color: black;
     font-size: 2rem;
-    font-weight: bolder;
+    font-weight: bolder;;
 }
 
 @media screen and (max-width:700px) {
     .circle.yellow {
-        top: 37%;
+        top: 47%;
         left: 26%;
     }
 
     .triangle.pink {
-        bottom: 41%;
+        bottom: 45%;
         right: 34%;
 
     }

@@ -1,0 +1,20 @@
+{
+  "name": "Digital Clock App",
+  "short_name": "Clock",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1d2671",
+  "theme_color": "#1d2671",
+  "icons": [
+    {
+      "src": "1764956481891.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "1764956481891.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

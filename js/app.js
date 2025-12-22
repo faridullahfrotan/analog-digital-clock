@@ -59,3 +59,13 @@ function updateClock() {
 
 updateClock();
 setInterval(updateClock, 1000);
+
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("sw.js")
+    .then(() => console.log("SW Registered"))
+    .catch(err => console.log("SW Error:", err));
+}
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("sw.js");
+}
+
