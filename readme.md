@@ -41,7 +41,7 @@ This project features a smooth analog clock, a digital time display, and a day/n
 
 ## 📸 Preview
 
-![Clock Preview](./Screenshot%202025-12-21%20233356.png)
+![Clock Preview](https://github.com/faridullahfrotan/analog-digital-clock/blob/master/clockimage.png)
 
 ---
 
