@@ -16,11 +16,13 @@ function updateClock() {
     let minutes = now.getMinutes();
     let hours = now.getHours();
 
-    period = "Pm"
+    period = "Am"
+    if(hours >= 12){
+        period = "Pm"
+    }
     hours = hours % 12
     if (hours === 0) {
         hours = 12
-        period = 'Am'
     }
 
     totalSeconds = totalSeconds + 1
